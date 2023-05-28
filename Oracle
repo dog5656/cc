@@ -4,7 +4,7 @@ touch dhruv.txt
 cat dhruv.txt
 nano dhruv.txt (add 2-3 lines)
 cat dhruv.txt
-scp.dhruv.txt vagrant@inet____:/home/vagrant
+scp.dhruv.txt vagrant@____:/home/vagrant
 ___==enter the ip address of other vm 
 
 
