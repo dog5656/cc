@@ -1,0 +1,11 @@
+ls
+touch dhruv.txt
+cat dhruv.txt
+nano dhruv.txt (add 2-3 lines)
+cat dhruv.txt
+scp.dhruv.txt vagrant@inet____:/home/vagrant
+___==enter the ip address of other vm 
+
+
+
+vmdk downlod link--- https://app.vagrantup.com/bento/boxes/ubuntu-16.04
