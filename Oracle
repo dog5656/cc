@@ -1,3 +1,4 @@
+ifconfig(to check the ip address, it should be different)
 ls
 touch dhruv.txt
 cat dhruv.txt
