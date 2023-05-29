@@ -1,0 +1,96 @@
+/* Navigation */
+#navbar {
+    flex-direction: column;
+  }
+  
+  #navbar ul li a {
+    font-size: 1rem;
+    padding: 0px 7px;
+    padding-bottom: 8px;
+  }
+  /* Home section */
+  #home {
+    height: 20rem;
+    padding: 3px 28px;
+  }
+  
+  #home::before {
+    height: 480px;
+  }
+  
+  #home span {
+    font-size: 13px;
+  }
+  
+  #home a {
+    font-size: 1rem;
+    padding: 0px 7px;
+  }
+  
+  /* About section  */
+  #about-me {
+    flex-direction: column;
+  }
+  
+  #about-me span {
+    font-size: 16px;
+  }
+  
+  #about-me h1 {
+    font-size: 1.8rem;
+  }
+  
+  /* Resume section */
+  #resume {
+    flex-wrap: wrap;
+  }
+  
+  #resume h1 {
+    font-size: 1.8rem;
+  }
+  
+  #resume-content {
+    flex-wrap: wrap;
+  }
+  
+  #resume span {
+    font-size: 20px;
+  }
+  
+  #resume p {
+    font-size: 15px;
+  }
+  
+  #resume h4 {
+    font-size: 1.2rem;
+  }
+  
+  /* Contact */
+  
+  #contact h1 {
+    font-size: 1.8rem;
+  }
+  
+  #contact h2 {
+    font-size: 0.9rem;
+  }
+  
+  .fa {
+    width: 1rem;
+    margin: 5px 2px;
+    border-radius: 15%;
+  }
+  
+  .fa-linkedin:before {
+    font-size: 0.5rem;
+  }
+  
+  /* Utility classes */
+  .h-primary {
+    font-size: 26px;
+  }
+  
+  .left {
+    text-align: left;
+    padding-left: 0%;
+  }
